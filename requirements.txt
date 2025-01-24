@@ -1,0 +1,7 @@
+ExifRead==3.0.0
+numpy==1.26.4
+opencv-python==4.11.0.86
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.16
+PyQt5_sip==12.16.1
+rawpy==0.24.0
